@@ -4,6 +4,7 @@ Some of the salient features of the framework are:-
 
 1. This basic REST API automation framework is written to test REST APIs. Currently, HTTP GET is supported.
 2. It can be extended to test the response through HTTP POST, PUT, DELETE HTTP requests.
+3. Test Reports through EXTENT Reports
 
 ## Toolset
 * Programming Language - [Java](https://www.java.com/en/)
