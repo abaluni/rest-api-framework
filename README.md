@@ -11,9 +11,11 @@ Some of the salient features of the framework are:-
 * Dependency Management - Maven Packages deployed on
 * REST API Automation - [REST Assured](http://rest-assured.io/)
 * IDE - [Eclipse](https://eclipse.org/) or [IntelliJ](https://www.jetbrains.com/idea/)
+* Extent reports - [Extent Reports](http://extentreports.com)
 
 ## To Do
 
-* Addition of Extent reports - [Extent Reports](http://extentreports.com)
+* Enhancing Framework for HTTP POST, PUT, DELETE REQUESTS for REST APIs
+* Integration of TestLink Open Source Management Tool to map test cases in TestLink with Automated test cases in REST API Automation Framework
 
 
